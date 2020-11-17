@@ -25,7 +25,7 @@ body{
     border-radius: 50%;
 }
 .userInfo{
-    font-family: "Arial Black";
+    font-family: "Fira Code";
     color: darkgray;
 }
 .tableselector{
@@ -42,5 +42,5 @@ body{
 
 .imagelogo img{
     max-height: 120px;
-    max-width: auto;
+    max-width: fit-content;
 }
