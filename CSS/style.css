@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: blue;
+    background-image: url("https://www.psdgraphics.com/wp-content/uploads/2017/08/geometric-background.png");
+    background-repeat: repeat-x;
+}
+.userCard{
+    color: white;
+    background-image: url("https://wallpaperaccess.com/full/1107092.jpg");
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 250px;
+    height: 600px;
+    text-align: center;
+    margin: auto;
+    transition: 0.3s;
+}
+.userName{
+    font-weight: bold;
+}
+.userImageContainer img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+}
+.userInfo{
+    font-family: "Arial Black";
+    color: darkgray;
+}
+.tableselector{
+    text-align: left;
+}
+.tableselector .greying{
+    color: grey;
+}
+.golittlebitleft
+{
+    border: 2px;
+    padding: 10px;
+}
+
+.imagelogo img{
+    max-height: 120px;
+    max-width: auto;
+}
